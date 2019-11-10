@@ -1,0 +1,11 @@
+{
+  "body": "{\"content\":\"new world\",\"attachment\":\"new.jpg\"}",
+  "pathParameters": {
+    "id": "a2d8baf0-0349-11ea-8fa6-6f809d8bc871"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "165a5bf6-8262-4621-b458-dacfbc721fe7"
+    }
+  }
+}
